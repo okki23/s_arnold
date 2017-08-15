@@ -60,7 +60,7 @@
 				<!-- begin mobile sidebar expand / collapse button -->
 				<div class="navbar-header">
 					<!-- C:\xampp\htdocs\s_arnold\assets\img -->
-	<img src="<?php echo base_url('assets/img/mylogo.png');?>" style="width:200px; height:70px;">
+	<img src="<?php echo base_url('assets/img/mylogo2.png');?>" style="width:120px; height:50px;">
 
 					<button type="button" class="navbar-toggle" data-click="sidebar-toggled">
 						<span class="icon-bar"></span>
@@ -247,7 +247,7 @@
 				<ul class="nav">
 					<div style="margin-top:10px;"> &nbsp; </div>
 					<li><a href="<?php echo base_url('dashboard'); ?>"><i class="fa fa-institution alias"></i> <span>Dashboard</span></a></li>
-					 
+
 					<li class="has-sub">
 						<a href="javascript:;">
 						    <b class="caret pull-right"></b>

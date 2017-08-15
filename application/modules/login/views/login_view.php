@@ -37,12 +37,14 @@
 	    <!-- begin login -->
         <div class="login animated fadeInDown">
             <!-- begin brand -->
+						<div class="brand" align="center">
+						<img src="<?php echo base_url('assets/img/mylogo2.png');?>" style="width:300px; height:140px;">
 
+						</div>
             <div class="login-header">
-                <div class="brand" align="center">
-                <img src="<?php echo base_url('assets/img/mylogo.png');?>" style="width:300px; height:100px;">
 
-                </div>
+								<br>
+								<br>
 
             </div>
             <!-- end brand -->

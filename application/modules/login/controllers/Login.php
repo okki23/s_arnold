@@ -18,7 +18,7 @@ class Login extends Parent_controller {
     }
 
     public function index() {
-        $data['judul'] = 'Program Aplikasi Pengolahan Ayam pada PT.Sun One';
+        $data['judul'] = 'Program Aplikasi CRM pada PT.LG';
         $this->load->view('login/login_view', $data);
     }
 
